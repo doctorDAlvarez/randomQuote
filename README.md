@@ -1,5 +1,3 @@
-# Techdegree Project 1.
-
 ## Random Quote Generator
 
 > First **TreeHouse** project, web app that generates a random quote every 10 sec or every time someone clicks the buttom, 
